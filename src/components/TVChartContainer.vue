@@ -17,7 +17,7 @@ const props = defineProps({
 		type: String,
 	},
 	interval: {
-		default: '1',
+		default: '1D',
 		type: String,
 	},
 	datafeedUrl: {
