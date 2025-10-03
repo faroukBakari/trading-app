@@ -1,0 +1,109 @@
+#!/bin/bash
+
+# List the contents of the charting_library directory
+# file_list=$(cd charting_library-old && find . -type f)
+file_list="bundles/1485.b8e04ff5bf844d3451c6.js
+bundles/1727.7ff9031cf392f780ce22.js
+bundles/2227.c1c4b4d4d12f9774793f.js
+bundles/2477.44f2c96353966357ded8.js
+bundles/3179.78787edf30f25d297844.js
+bundles/4931.f6d9da1269f09f247d63.js
+bundles/5456.5550ada1b5274d2b1fc9.js
+bundles/6025.bd352ea0e85294a25497.js
+bundles/6193.15a1126a4ea5d5a80cbc.js
+bundles/6376.482cfbb8133455c17c92.js
+bundles/769.cfef16111d0547178795.js
+bundles/8093.15bdc35e257d730d0e71.js
+bundles/8402.8d6877692120b620a62f.js
+bundles/917.41b6aa03c55ba682d104.js
+bundles/9378.dbb8d40e653f515b8f67.js
+bundles/change-interval-dialog.c0b97c344387b26d21f6.js
+bundles/chart-bottom-toolbar.6ceb4aef3a79d9831607.js
+bundles/chart-widget-gui.4ec424eb56739ee22285.js
+bundles/drawing-toolbar.6b7c3410c1316a4d200d.js
+bundles/en.3644.019797455a157bd8d965.js
+bundles/en.3721.cb0d7b01382649fffd1d.js
+bundles/en.5700.7faeb0b70cce839eea0c.js
+bundles/en.6342.85f957808125f840ce9a.js
+bundles/en.7617.cd80164477ae293d1bdf.js
+bundles/en.8370.fa349b4816cd5b9bc50e.js
+bundles/en.8736.4e59a9d79d389b2f9ccd.js
+bundles/en.8975.32960d0fab142040a5de.js
+bundles/en.91.cfe4af4f43df761935ee.js
+bundles/floating-toolbars.e8ff289dd4e8225bc29e.js
+bundles/get-error-card.9bac6b5005b2fe097cf3.js
+bundles/header-toolbar.2a1db3d6309536cde3c0.js
+bundles/line-tools-icons.593acab581cc4008ee11.js
+bundles/price-scale-mode-buttons-renderer.8233b5c0f504dc44029c.js
+bundles/restricted-toolset.85a0d8dc30a084c60f7d.js
+bundles/studies.3ad353a5758b0064f87a.js
+bundles/user-defined-bars-marks-tooltip.e90e05d2b7455360cb92.js
+bundles/2475.1ed8b62332af605c5bee.js
+bundles/4426.4117c7a82199deed7db8.js
+bundles/9418.963c6d55bb9a6e9d6402.js
+bundles/en.8836.0ee8ffb3a9c55b7b58b3.js
+bundles/study-pane-views.ab403205125f170be9e2.js
+bundles/symbol-search-dialog.20a5ff1d11fd823861a0.js
+bundles/chart-event-hint.523a7e995356abbe4417.js
+bundles/2745.73995b6670d622d97310.js
+bundles/5410.d55fe54ddbf5d3a1d03e.js
+bundles/5705.3cfd1fd3b91f816a5125.js
+bundles/6668.0e223b3dc3e6bb3bdb80.js
+bundles/chart-floating-tooltip-activation-hint.c120f2a52855c1fe7d0f.js
+bundles/en.3581.29b14493cc3e702d776e.js
+bundles/en.6155.1bb6d590d58258e4ca2b.js
+bundles/en.7122.9f21877d4815945ac06f.js
+bundles/en.7850.345c7f95940b47ec4aa3.js
+bundles/en.8535.3d432e94419675297fed.js
+bundles/line-tool-emoji.6cae9429d8424851a2a2.js
+bundles/line-tool-fib-retracement.7335c975cc2059982d78.js
+bundles/line-tool-info-line.49e58aee829a5e999fc4.js
+bundles/line-tool-trend-line.e757c9194429a5eb95fe.js
+bundles/simple-dialog.3c45f27ba6b780f9400c.js
+bundles/add-compare-dialog.3cab117ede5b1696d880.js
+bundles/compare-model.f01e49e03e8825756d78.js
+bundles/en.8955.700afc0c6907cb35f040.js
+bundles/line-tool-5points-pattern.6b6008c2c60cff13d7f4.js
+bundles/5386.400def58328bce500f3d.js
+bundles/6864.279ef4c9539497429e92.js
+bundles/7437.7596a99a3f7c5f7d8009.js
+bundles/986.af29b1f88812e58c9f6c.js
+bundles/chart-actions-provider.5db78c705ae2a12ecca3.js
+bundles/en.2342.b15afe64e782db72472d.js
+bundles/en.2346.a49a3f3441f33cfb055f.js
+bundles/en.3462.d46273e3a7aeebabb3ce.js
+bundles/en.4856.c3871a39af69453cb6ce.js
+bundles/en.6290.a78fc99d10230f3f6323.js
+bundles/line-tool-arrow-mark.f0be320dc06ad56040bf.js
+bundles/line-tool-brush.89cef390d6784c56bef1.js
+bundles/line-tool-extended.e847213b4f2f0347eec1.js
+bundles/line-tool-fib-channel.7bfc63a600845bb7c674.js
+bundles/line-tool-fib-timezone.fc2e96a3d5be8f6cf400.js
+bundles/line-tool-head-and-shoulders.22b0af1ad7bc3caff507.js
+bundles/line-tool-risk-reward.3892601e661ca0cce990.js
+bundles/line-tool-text.cd23d9dd0093c019ab0c.js
+bundles/lt-pane-views.46eba403be0c79c4c268.js
+bundles/object-tree-dialog.254833ed6030cf146329.js
+bundles/study-market.2204b6a90bef20ca1042.js
+bundles/line-tool-text.cd23d9dd0093c019ab0c.js
+bundles/8823.d0f6a13ebe9b55e5ae25.js
+bundles/en.3198.c73543d008f163aced66.js
+bundles/line-tool-trend-angle.599f71b4f74f08c1cc64.js
+bundles/lt-property-pages-with-definitions.6830c12ee5b23fa3f44b.js
+bundles/react-popper.b1e6942ddf9308862833.js
+bundles/8823.d0f6a13ebe9b55e5ae25.js
+bundles/en.3198.c73543d008f163aced66.js
+bundles/lt-property-pages-with-definitions.6830c12ee5b23fa3f44b.js
+bundles/react-popper.b1e6942ddf9308862833.js"
+for file in $file_list; do
+    rel_name=$(echo "$file" | sed 's|^\./||')
+    target_name="charting_library/$rel_name"
+    [[ -f "$target_name" ]] && continue
+    echo "Downloading file $target_name"
+    url="https://charting-library.tradingview-widget.com/charting_library/$rel_name"
+    target_path=$(dirname "$target_name")
+    [[ ! -d "$target_path" ]] && mkdir -p "$target_path"
+    if ! curl --silent --fail --create-dirs -o "$target_name" "$url"; then
+        echo "File $rel_name not found on server."
+    fi
+done

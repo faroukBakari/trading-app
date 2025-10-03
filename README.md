@@ -40,3 +40,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Interresting links to study
+https://github.com/frankykevin/pump-fun-frontend/tree/main/public/libraries
+https://github.com/hadialaddin/crypto-genie/tree/713ccb891038b380e2fb15e4b178c516c79260ef/dashboard/charting_library_clonned_data/charting_library
+https://github.com/rubenmarcus/malicious-repositories/tree/a853975af9dceaae817911ad27123d349142ced0/DEX-staking-project-ultrax/public/charting_library *** (older 2022 but multi-language)
